@@ -98,12 +98,12 @@ When I was bulding my own vpns on my vps with v2ray, creating multiple configs p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-*** This is an example of how you may give instructions on setting up your project locally.
-*** To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
 The only prerequisites are python (3.11.4 tested) and selenium (4.11 or newer recomended), new selenium updates removed the need for the webdriver path as selenium manages the webdriver itself so make sure you have the right version, this program uses chrome driver so make sure you have google chrome browser installed and internet connection
+
+
+
 
 ### Installation
 
@@ -111,11 +111,14 @@ The only prerequisites are python (3.11.4 tested) and selenium (4.11 or newer re
    ```sh
    git clone https://github.com/aalligithub/automated-v2ray-manger
    ```
+   
 2. Install packages from requirements.txt
    ```sh
    pip install -r requirements.txt
    ```
+   
 3. Open 'config.json' file and input your data
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,20 +130,6 @@ The only prerequisites are python (3.11.4 tested) and selenium (4.11 or newer re
 After you finished installing and setting things up simply run the program and navigate with the interactive console
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-***## Roadmap
-
-***- [ ] Feature 1
-***- [ ] Feature 2
-***- [ ] Feature 3
-***    - [ ] Nested Feature
-
-***See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-***<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
