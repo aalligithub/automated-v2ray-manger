@@ -1,0 +1,5 @@
+###### Requirements without Version Specifiers ######
+selenium
+termcolor
+webdriver-manager
+###### Requirements with Version Specifiers ######

@@ -1,0 +1,18 @@
+{
+    "address": {
+        "ip":"",
+        "port":""
+    },
+
+    "credentials":{
+        "username":"",
+        "password":""
+    },
+
+    "config":{
+        "remark":"",
+        "domain":"",
+        "public_key":"",
+        "private_key":""
+    }
+}
